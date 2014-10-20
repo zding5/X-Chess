@@ -1,0 +1,25 @@
+19/10/2014
+Set up the plan and be ready to sail!
+Task: Famaliar with Eclipse, Swing(In the "Killer" book), Github
+
+Work Flow（tantative）:
+1. Create Menu, Setting, Welcome, Introduction, Rules
+2. Documentation
+3. Collecting Resources(img,bgm,buttons,bg,"animate")
+4. Code this mysterious stuffs.
+
+Class List (tentative) :
+
+  GUI Part
+  1.Canvas
+  2.Grid/ChessBoard
+  3.Units
+  4.Control
+  5.Link
+  
+  Back-end Part
+  1.Player
+  2.Unit
+  3.Board
+  
+QED.
